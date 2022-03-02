@@ -1,4 +1,4 @@
-# problem.md
+# poblem.md
 John Gilbert
 Steven Williams
 Diego Morales
