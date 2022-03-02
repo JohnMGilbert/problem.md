@@ -1,6 +1,9 @@
 John Gilbert
+
 Steven Williams
+
 Diego Morales
+
 March 1, 2022
 
 Problem Statement
